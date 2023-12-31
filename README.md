@@ -29,7 +29,6 @@ View the result.
 
 
 Example
-// Sample code snippet demonstrating calculator usage
 public class CalculatorDemo {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
